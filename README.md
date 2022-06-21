@@ -19,7 +19,7 @@
       <h5>Frameworks:</h5>
       <ul>
          <li><p weight="900">React(Redux/Redux-Saga/Redux-Toolkit)  <img width="30px" height="30px" src="https://media.tproger.ru/uploads/2020/12/react-roadmap-2021-cover-icon-original.png"/> <img width="30px" height="30px" src="https://lab.lectrum.io/static/logos/redux.png"/></p></li>
-         <li><p weight="900">Express  <img width="50px" height="30px" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png"/></p>
+         <li><p weight="900">Express  <img width="30px" height="30px" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png"/></p>
           <li><p weight="900">TypeScript  <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/></p>
       </ul>
     </div>
