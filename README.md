@@ -1,5 +1,6 @@
 ### <h1 align="center"> Welcome to my profile!👋
-<div id="header" align="center" background-color="red" >
+<div id="header" align="center" background-color="red" display="flex" >
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif"/>
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
   
