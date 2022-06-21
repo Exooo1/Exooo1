@@ -5,6 +5,9 @@
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="200px"/>
 </div>
   <div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div align="center">
     <h3>Hi everyone! I am a Frontend developer (full stack). I am looking for a job as a Frontend developer</h2>
   </div>
   <div>
@@ -24,9 +27,6 @@
           <li><p weight="900">TypeScript  <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/></p>
       </ul>
     </div>
-    <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
   </div>
   
   
