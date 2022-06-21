@@ -4,8 +4,6 @@
   <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" height="200px"/>
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="200px"/>
 </div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   <div align="center">
     <h3>Hi everyone! I am a Frontend developer (full stack). I am looking for a job as a Frontend developer</h2>
   </div>
@@ -27,7 +25,7 @@
       </ul>
     </div>
   </div>
-  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **Exooo1/Exooo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
