@@ -25,7 +25,8 @@
           <li><p weight="900">TypeScript  <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/></p>
       </ul>
     </div>
-  </div>  
+  </div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 <!--
 **Exooo1/Exooo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
