@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="200px"/>
 </div>
   <div>
-    <h2>Hi everyone! I am a Frontend developer (full stack). I am looking for a job as a Frontend developer</h2>
+    <h3>Hi everyone! I am a Frontend developer (full stack). I am looking for a job as a Frontend developer</h2>
   </div>
   
 <!--
