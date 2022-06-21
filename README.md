@@ -10,6 +10,10 @@
     <h4 align="center">About my skills</h4>
     <div>
       <h5>My language:</h5>
+      <ul>
+  <li><p weight="900">1. JavaScript <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"/></p></li>
+  <li><p weight="900">1. NodeJS <img width="30px" height="30px" src="https://media.tproger.ru/uploads/2022/04/node_js_icon-cover-icon-original.png"/></p>/li>
+</ul>
       <p weight="900">1. JavaScript <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"/></p>
        <p weight="900">1. NodeJS <img width="30px" height="30px" src="https://media.tproger.ru/uploads/2022/04/node_js_icon-cover-icon-original.png"/></p>
     </div>
