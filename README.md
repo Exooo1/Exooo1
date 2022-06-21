@@ -1,7 +1,7 @@
 ### <h1 align="center"> Welcome to my profile!👋
 <div  background="red">2</div>
 <div id="header" align="center" background-color="red" >
-  <img src="https://media3.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif?cid=ecf05e47x18wdlgnp435uvz4ob9addgenvz3d2enrfgtb744&rid=giphy.gif&ct=g" width="50%" height="170"/>
+  <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif"/>
 </div>
   
 <!--
