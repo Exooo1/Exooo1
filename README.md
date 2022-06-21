@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center" style={{width:'400px'}}>
+<div id="header" align="center" width='400px'>
   <img style={{width:'400px'}} src="https://media1.giphy.com/media/3o7qDPxorBbvpB1Pby/giphy.gif?cid=ecf05e47z0dnrfobgfohf26240oz5t5w9em2ze2r83aaou7y&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <!--
