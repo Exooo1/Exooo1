@@ -1,5 +1,7 @@
 ### <h1 align="center"> Welcome to my profile!👋   ![](https://komarev.com/ghpvc/?username=Exooo1&color=green)
- <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</div>   
+ <div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ </div>   
  
 <div id="header" align="center" background-color="red" display="flex">
   <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" height="200px"/>
