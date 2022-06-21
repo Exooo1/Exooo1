@@ -1,5 +1,5 @@
 ### <h1 align="center"> Welcome to my profile!👋
-<div id="header" align="center" background-color="red" display="flex" justify-content="space-between" >
+<div id="header" align="center" background-color="red" display="flex" justifyContent="space-between" >
   <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" height="200px"/>
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="200px"/>
 </div>
