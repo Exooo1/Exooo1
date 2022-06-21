@@ -1,4 +1,5 @@
 ### <h1 align="center"> Welcome to my profile!👋   ![](https://komarev.com/ghpvc/?username=Exooo1&color=green)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <div id="header" align="center" background-color="red" display="flex">
   <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" height="200px"/>
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="200px"/>
@@ -24,7 +25,6 @@
       </ul>
     </div>
   </div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exooo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **Exooo1/Exooo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
