@@ -6,6 +6,13 @@
   <div align="center">
     <h3>Hi everyone! I am a Frontend developer (full stack). I am looking for a job as a Frontend developer</h2>
   </div>
+  <div>
+    <h4>About my skills</h4>
+    <div>
+      <h5>My language</h5>
+      <p>1.JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"/></p>
+    </div>
+  </div>
   
 <!--
 **Exooo1/Exooo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
