@@ -29,6 +29,19 @@
          <li><p weight="900">Snowpack<img width="30px" height="30px" src="https://i.ytimg.com/vi/nbwt3A9RzNw/maxresdefault.jpg"/></p>
       </ul>
     </div>
+    <div>
+      <h5>DataBase:</h5>
+      <ul>
+         <li><p weight="900">MongoDB<img width="30px" height="30px" src="https://bestprogrammer.ru/wp-content/uploads/2021/02/MongoDB.jpg"/></p>
+      </ul>
+    </div>
+     <div>
+      <h5>UI Frameworks:</h5>
+      <ul>
+         <li><p weight="900">Material UI<img width="30px" height="30px" src="https://v4.mui.com/static/logo.png"/></p>
+          <li><p weight="900">Ant Design<img width="30px" height="30px" src="https://gw.alipayobjects.com/zos/antfincdn/upvrAjAPQX/Logo_Tech%252520UI.svg"/></p>
+      </ul>
+    </div>
   </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
