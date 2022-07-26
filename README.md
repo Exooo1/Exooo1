@@ -53,7 +53,6 @@
       <h5>Control systems:</h5>
       <ul>
          <li><p weight="900">Git  <img width="30px" height="30px" src="https://media.tproger.ru/uploads/2020/12/git_guide_for_beginners-cover-icon-original.png"/></p>
-   
       </ul>
     </div>
   </div>
