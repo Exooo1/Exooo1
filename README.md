@@ -56,6 +56,7 @@
          <li><p weight="900">Git  <img width="30px" height="30px" src="https://media.tproger.ru/uploads/2020/12/git_guide_for_beginners-cover-icon-original.png"/></p>
       </ul>
     </div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 <!--
