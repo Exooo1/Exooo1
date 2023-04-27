@@ -18,7 +18,7 @@
       <img width='30px' height='30px' src='https://res.cloudinary.com/practicaldev/image/fetch/s--bH970DGV--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/j065mcmc1r78ycbdl7bt.jpg'/>
       <img width='30px' height='30px' src='https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg'/>
     </div>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Exooo1)](https://git.io/streak-stats)
   </div>
 
 <!--
