@@ -1,4 +1,4 @@
-### <h1 align="center"> Welcome to my profile!👋   ![](https://komarev.com/ghpvc/?username=Exooo1&color=green)
+### <h1 align="center"> Welcome to my profile!👋   [](https://komarev.com/ghpvc/?username=Exooo1&color=green)
   <div align='center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
 <div id="header" align="center" background-color="red" display="flex">
   <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" height="200px"/>
@@ -11,6 +11,9 @@
     <h4 align="center">About my skills</h4>
     <div>
       <h5>My skills:</h5>
+      <img width='30px' height='30px' src='https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg'/>
+      <img width='30px' height='30px' src='https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png'/>
+      <img width='30px' height='30px' src='https://res.cloudinary.com/practicaldev/image/fetch/s--bH970DGV--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/j065mcmc1r78ycbdl7bt.jpg'/>
       <img width='30px' height='30px' src='https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg'/>
     </div>
   </div>
