@@ -8,8 +8,10 @@
   <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" height="200px"/>
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="200px"/>
 </div>
-  <div align="center">
-    <h3>Hi everyone! I am a Frontend developer (full stack). I am looking for a job as a Frontend developer</h2>
+  <div>
+    <ul>
+      <li>I'm based in Belarus</li>
+    </ul>
   </div>
   <div>
     <h4 align="center">About my skills</h4>
