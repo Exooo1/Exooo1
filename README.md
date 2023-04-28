@@ -21,6 +21,8 @@
       <img width='40px'  src='https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg'/>
       <img width='40px'  src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'/>
       <img width='40px'  src='https://mui.com/static/logo.png'/>
-      <img width='40px'  src='https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55/>
+      <img width='40px'  src='https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55'/>
+      <img width='40px'  src='https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560'/>
+      <img width='40px'  src='https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png'/>
     </div>
   </div>
