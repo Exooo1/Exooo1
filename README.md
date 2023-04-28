@@ -3,7 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Exooo1&theme=dark)](https://git.io/streak-stats)
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vlas</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am full stack developer.</h3>
+<h3 align="center">I am Fullstack Developer.</h3>
 <div id="header" align="center" background-color="red" display="flex">
   <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" height="200px"/>
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="200px"/>
@@ -16,6 +16,14 @@
       <li>🏂I improve my skills in Nest,Express,TypeScript</li>
       <li>🐹I am currently working about this Project https://github.com/Exooo1/vitewords</li>
     </ul>
+  </div>
+  <div>
+     <h3>Socials</h3>
+     <div>
+       <a href='https://www.linkedin.com/in/vlasmaskalenchik/'><img width='40px' src='https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png'/></a>
+       <a href='https://www.linkedin.com/in/vlasmaskalenchik/'><img width='40px' src='https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png'/></a>
+       <a href='https://www.linkedin.com/in/vlasmaskalenchik/'><img width='40px' src='https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png'/></a>
+     </div>
   </div>
   <div>
     <h4 align="center">About my skills</h4>
