@@ -21,8 +21,7 @@
      <h3>Socials</h3>
      <div>
        <a href='https://www.linkedin.com/in/vlasmaskalenchik/'><img width='40px' src='https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png'/></a>
-       <a href='https://www.linkedin.com/in/vlasmaskalenchik/'><img width='40px' src='https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png'/></a>
-       <a href='https://www.linkedin.com/in/vlasmaskalenchik/'><img width='40px' src='https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png'/></a>
+       <a href='https://t.me/Vlasmaskalenchik'><img width='40px' src='https://img.championat.com/s/735x490/news/big/z/x/segodnya-telegram-stolknulsya-s-besprecedentnoj-nagruzkoj_16457144091661306415.jpg'/></a>
      </div>
   </div>
   <div>
