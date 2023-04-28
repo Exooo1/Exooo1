@@ -24,5 +24,8 @@
       <img width='40px'  src='https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55'/>
       <img width='40px'  src='https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560'/>
       <img width='40px'  src='https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png'/>
+      <img width='40px'  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj8WWrX6g2og2THuQG5WuFym3aE4Kccf3R6KiNrd6MDCB67raF-p-YNcBQ1c_SacvA9j0&usqp=CAU'/>
+      <img width='40px'  src='https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png'/>
+      <img width='40px'  src='https://www.aviator.co/blog/wp-content/uploads/2023/03/postgres-logo-1.png'/>
     </div>
   </div>
