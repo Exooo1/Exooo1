@@ -10,7 +10,10 @@
 </div>
   <div>
     <ul>
-      <li>I'm based in Belarus</li>
+      <li>🌍I'm based in Belarus</li>
+      <li>📧You can contact me at rmitry@gmail.com</li>
+      <li>💪I'm working as Fullstack Developer at Prodmir</li>
+      <li>🏂I improve my skills in Nest,Express,TypeScript</li>
     </ul>
   </div>
   <div>
