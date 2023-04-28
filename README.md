@@ -15,12 +15,12 @@
     <h4 align="center">About my skills</h4>
     <div>
       <h5>My skills:</h5>
-      <img width='50px' height='50px' src='https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg'/>
-      <img width='50px' height='50px' src='https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png'/>
-      <img width='50px' height='50px' src='https://res.cloudinary.com/practicaldev/image/fetch/s--bH970DGV--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/j065mcmc1r78ycbdl7bt.jpg'/>
-      <img width='50px' height='50px' src='https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png'/>
-      <img width='50px' height='50px' src='https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png'/>
-      <img width='50px' height='50px' src='https://mui.com/static/logo.png'/>
-      <img width='50px' height='50px' src='https://img.stackshare.io/service/7374/react-redux.png'/>
+      <img width='40px'  src='https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg'/>
+      <img width='40px'  src='https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png'/>
+      <img width='40px'  src='https://res.cloudinary.com/practicaldev/image/fetch/s--bH970DGV--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/j065mcmc1r78ycbdl7bt.jpg'/>
+      <img width='40px'  src='https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png'/>
+      <img width='40px'  src='https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png'/>
+      <img width='40px'  src='https://mui.com/static/logo.png'/>
+      <img width='40px'  src='https://img.stackshare.io/service/7374/react-redux.png'/>
     </div>
   </div>
